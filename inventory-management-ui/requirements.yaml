@@ -1,4 +1,4 @@
 dependencies:
 - name: inventory-management-ui
   version: 0.0.7
-  repository: https://artifactory-tools.testdrive-cluster-2-49940c4bdca5e22e4c30fc45d6b9da1b-0000.au-syd.containers.appdomain.cloud/artifactory/generic-local/
+  repository: https://artifactory-tools.testdrive-cluster-2-49940c4bdca5e22e4c30fc45d6b9da1b-0000.au-syd.containers.appdomain.cloud/artifactory/generic-local/testdrive
